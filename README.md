@@ -21,13 +21,17 @@
 
 1. **输入存储桶URL**：在"存储桶遍历URL"框中输入目标存储桶的访问地址
 <img width="660" height="478" alt="image" src="https://github.com/user-attachments/assets/46ff5be4-3343-4c3b-83a5-25fb0001b8ee" />
+
 2. **设置根路径**（可选）：如果需要指定特定的根路径
 3. **开始提取**：点击"提取列表"按钮开始遍历存储桶
 <img width="660" height="478" alt="image" src="https://github.com/user-attachments/assets/9b2b2704-80b6-4eac-8ca8-4d8cd2dc9589" />
+
 4. **查看结果**：程序会自动生成CSV文件保存文件列表
 <img width="718" height="606" alt="image" src="https://github.com/user-attachments/assets/c02d33a6-aa4f-432d-93a0-332f7501128d" />
+
 5. **下载文件**：在"下载条数"框中输入要下载的文件数量，点击"下载文件"
 <img width="662" height="481" alt="image" src="https://github.com/user-attachments/assets/27ac3420-ea2f-4037-aed6-b04e9357c1a4" />
+
 
 ### 3. 输出文件
 
@@ -113,4 +117,5 @@ by 黑奴001
 ---
 
 ⭐ 如果这个项目对您有帮助，请给个Star支持一下！
+
 
