@@ -17,7 +17,7 @@
 ## 使用方法
 
 
-### 2. 界面操作
+### 1. 界面操作
 
 1. **输入存储桶URL**：在"存储桶遍历URL"框中输入目标存储桶的访问地址
 <img width="660" height="478" alt="image" src="https://github.com/user-attachments/assets/46ff5be4-3343-4c3b-83a5-25fb0001b8ee" />
@@ -36,7 +36,7 @@
 <img width="822" height="537" alt="image" src="https://github.com/user-attachments/assets/ae211646-dfb8-4f8b-8a05-f1d84029aea3" />
 
 
-### 3. 输出文件
+### 2. 输出文件
 
 - **CSV文件**：包含所有文件的详细信息（文件名、大小、修改时间、URL等）
 - **下载文件**：保存在`file`目录中
@@ -120,6 +120,7 @@ by 黑奴001
 ---
 
 ⭐ 如果这个项目对您有帮助，请给个Star支持一下！
+
 
 
 
