@@ -32,6 +32,9 @@
 5. **下载文件**：在"下载条数"框中输入要下载的文件数量，点击"下载文件"
 <img width="662" height="481" alt="image" src="https://github.com/user-attachments/assets/27ac3420-ea2f-4037-aed6-b04e9357c1a4" />
 
+6.file目录下查看下载的文件
+<img width="822" height="537" alt="image" src="https://github.com/user-attachments/assets/ae211646-dfb8-4f8b-8a05-f1d84029aea3" />
+
 
 ### 3. 输出文件
 
@@ -117,5 +120,6 @@ by 黑奴001
 ---
 
 ⭐ 如果这个项目对您有帮助，请给个Star支持一下！
+
 
 
